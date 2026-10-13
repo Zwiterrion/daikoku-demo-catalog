@@ -1,7 +1,7 @@
 kind: api
-_id: api-weather3
+_id: api-weather4
 _tenant: default
 team: team-fifou
-description: Coucou mon grand
-name: C'est moi qui gagne
+description: Import par ressource loader
+name: Import par ressource loader
 possibleUsagePlans: []

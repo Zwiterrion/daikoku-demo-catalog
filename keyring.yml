@@ -1,0 +1,10 @@
+kind: keyring
+_id: keyring-weather
+_tenant: default
+team: team-weather
+otoroshiSettings:
+  type: Otoroshi
+  id: 5uPluRrc5wQFpCk6-VSgDvqCtckvInbF 
+enabled: true
+metadata:
+  foo: weather
