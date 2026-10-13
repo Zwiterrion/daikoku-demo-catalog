@@ -1,0 +1,7 @@
+kind: team
+_id: team-fifou
+_tenant: default
+type: Organization
+name: Fifou team
+contact: benjamin@acme.io
+verified: true
