@@ -1,0 +1,6 @@
+kind: usage-plan
+_id: plan-weather-free
+_tenant: default
+customName: Free
+subscriptionProcess:
+  steps: []

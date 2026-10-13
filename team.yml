@@ -1,0 +1,7 @@
+kind: team
+_id: team-weather
+_tenant: default
+type: Organization
+name: Weather
+contact: weather@acme.io
+verified: true

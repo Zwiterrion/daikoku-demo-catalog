@@ -1,0 +1,7 @@
+kind: api
+_id: api-weather
+_tenant: default
+team: team-weather
+description: coucou mon grand! C'est papa!!
+name: Weather API
+possibleUsagePlans: [plan-weather-free]
