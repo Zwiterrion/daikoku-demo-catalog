@@ -1,0 +1,7 @@
+kind: api
+_id: api-weather3
+_tenant: default
+team: team-foo
+description: Coucou mon grand
+name: Team API
+possibleUsagePlans: []
